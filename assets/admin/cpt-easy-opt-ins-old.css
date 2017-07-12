@@ -1,0 +1,15 @@
+#fca_eoi_preview_form[class^=fca_eoi_layout_] {
+	max-width: 300px;
+}
+
+#fca_eoi_preview_form[class^=fca_eoi_postbox_] {
+	max-width: 600px;
+}
+
+#fca_eoi_preview_form[class^=fca_eoi_lightbox_] {
+	max-width: 650px;
+}
+
+.fca_eoi_highlighted {
+	outline: 2px dashed #44C0FE !important;
+}

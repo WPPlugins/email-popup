@@ -1,0 +1,35 @@
+div#fca_eoi_preview div.fca_eoi_layout_popup_close {
+	display: none;
+}
+
+div#fca_eoi_preview div.fca_eoi_layout_popup_content_wrapper {
+	overflow: inherit;
+}
+
+#fca_eoi_preview_form_container {
+	display: table;
+	width: 100%;
+}
+
+#fca_eoi_preview_form_wrapper {
+	display: table-cell;
+	text-align: center;
+}
+
+#fca_eoi_preview_form {
+	display: inline-block;
+	padding: 0;
+	border: 1px solid transparent;
+}
+
+.fca_eoi_form_text_element.fca_eoi_highlighted,
+.fca_eoi_highlighted {
+	outline: 2px dashed #44C0FE !important;
+}
+
+.fca-eoi-thank-you-ajax {
+	width: 25em;
+	font-family: monospace;
+}
+
+
